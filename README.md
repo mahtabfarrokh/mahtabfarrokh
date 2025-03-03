@@ -14,4 +14,4 @@ I'm Mahtab, a Machine Learning Engineer with over 5 years of experience in AI/ML
 - LinkedIn: linkedin.com/in/mahtab-farrokh
 - Email: farrokh.mahtab@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahtabfarrokh&show_icons=true" alt="mahtabfarrokh" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahtabfarrokh&show_icons=true" alt="mahtabfarrokh" /> -->
